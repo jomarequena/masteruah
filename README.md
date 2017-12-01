@@ -77,3 +77,11 @@ git add README.md
 git commit -m "Subir tag v0.5 sin tag en push"
 git push origin master
 ```
+
+### Crear Tabla
+| NOMBRE | GITHUB |
+| ------ | ------ |
+| Lourdes | [Enlace](https://github.com/LourdesRD) |
+| Evamuhe | [Enlace](https://github.com/Evamuhe) |
+| Juan Pablo | [Enlace](https://github.com/jpinto7 | 
+
