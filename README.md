@@ -69,3 +69,15 @@ git push origin v0.1
 git commit -a "Subir tag v0.2 con cambios"
 
 git tag v0.2
+
+##Si edito el README.md desde el remote y el local, tendré un conflicto, tendré que solucionarlo. 
+
+git pull 
+
+##Me sacará todos los errores y los tengo que solucionar a mano.
+
+git add README.md
+
+git commit -a "Subir tag v0.5 sin tag en push"
+
+git push origin master
