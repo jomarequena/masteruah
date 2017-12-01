@@ -78,6 +78,6 @@ git pull
 
 git add README.md
 
-git commit -a "Subir tag v0.5 sin tag en push"
+git commit -m "Subir tag v0.5 sin tag en push"
 
 git push origin master
