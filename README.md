@@ -83,5 +83,5 @@ git push origin master
 | ------ | ------ |
 | Lourdes | [Enlace](https://github.com/LourdesRD) |
 | Evamuhe | [Enlace](https://github.com/Evamuhe) |
-| Juan Pablo | [Enlace](https://github.com/jpinto7 | 
+| Juan Pablo | [Enlace](https://github.com/jpinto7) | 
 
