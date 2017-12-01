@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #masteruah
 
 ##Master IoT
@@ -68,5 +69,3 @@ git push origin v0.1
 git commit -a "Subir tag v0.2 con cambios"
 
 git tag v0.2
-
-git push origin v0.2
