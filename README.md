@@ -131,3 +131,18 @@ git branch --no-mergeg
 git commit -m "FINAL"
 git push origin master
 ```
+
+### Crear TAG y borrar RAMA
+Vamos a crear el TAG v0.2 y borramos la rama v0.2
+```
+git tag v2.0
+git branch -d v2.0
+```
+
+### Listar los cambios realizados.
+```
+git log
+```
+![picture1]
+
+[picture1]: /images/Captura1.PNG "Titulo Opcional"
